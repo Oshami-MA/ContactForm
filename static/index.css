@@ -1,0 +1,26 @@
+#form {
+    display: flex;
+    flex-direction: column;
+}
+body {
+    width: 700px;
+    margin: auto;
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 83%);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+label{
+    margin-bottom: 5px ;
+    margin-top: 5px;
+}
+#buttonCenter{
+    margin-top: 10px;
+    text-align: center;
+}
+#contactFormBloc{
+    margin-top: 100px;
+}
+h1{
+    text-align: center;
+}
